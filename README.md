@@ -1,5 +1,4 @@
 <h3 align="center"> Hi there👋, I'm Ivan </h3>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
 **Ivan2d/Ivan2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
