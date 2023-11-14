@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Trick+or+Treat)](https://git.io/typing-svg)
 
+- 💻 Core Stack: Java, Spring ecosystem, JUnit/Mockito/TestContainers, PostgreSQL, Maven/Gradle, Docker, Microservices architecture. Mainly focused on Backend.
 - 🔭 I’m currently working on Tinkoff Practice
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently practice Java and learn front-end stack
