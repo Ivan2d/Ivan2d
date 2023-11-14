@@ -6,3 +6,5 @@
 - 🔭 I’m currently working on Tinkoff Practice
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently practice Java and learn front-end stack
+
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
