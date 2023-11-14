@@ -19,7 +19,3 @@
 	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivan2d)](https://git.io/streak-stats)
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan2d)](https://github.com/Ivan2d/github-readme-stats)
-
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan2d)](https://github.com/Ivan2d/github-readme-stats)
-
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2d&repo=github-readme-stats)](https://github.com/Ivan2d/github-readme-stats)
